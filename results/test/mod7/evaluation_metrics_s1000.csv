@@ -1,0 +1,13 @@
+Metric,Value
+pairwise_ave_pre,0.3622
+pairwise_ave_rec,0.2559
+pairwise_fscore,0.2999
+bcubed_ave_pre,0.6429
+bcubed_ave_rec,0.2346
+bcubed_fscore,0.3438
+nmi,0.7649
+scores_h_score,0.8704
+scores_c_score,0.6823
+scores_v_score,0.7649
+gt clusters,2452.0000
+pred clusters,54860.0000
